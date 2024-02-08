@@ -1,0 +1,4 @@
+- Clone repo
+- Copy .env without example and write your variables
+- npm i
+- npm run dev/build
